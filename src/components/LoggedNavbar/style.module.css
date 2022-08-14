@@ -1,0 +1,74 @@
+.bgBlue {
+  background-color: #1d3557f2 !important;
+}
+
+.navItems {
+  list-style-type: none;
+  width: 95%;
+}
+
+.logoFont {
+  font-family: "Yesteryear", cursive;
+  font-size: 40px;
+  color: #fcfaf9;
+}
+
+.textWhite {
+  color: #fcfaf9 !important;
+  font-size: 22px;
+}
+
+.button {
+  background-color: #1d3557f2 !important;
+  border: 2px solid #f06449 !important;
+  padding: 5px 20px 5px 20px !important;
+  border-radius: 18px !important;
+}
+
+.button:hover {
+  background-color: #ec452f !important;
+  border-color: #ec452f !important;
+}
+
+.buttonClear {
+  background-color: transparent;
+  border: none;
+  color: #fcfaf9 !important;
+}
+
+.buttonClear:hover {
+  background-color: transparent !important;
+  border: none !important;
+  color: #fcfaf9 !important;
+}
+
+/* .transactions a {
+  text-decoration: none;
+  border-radius: 12px;
+} */
+
+.transactions a,
+span {
+  text-decoration: none;
+  border-radius: 12px;
+}
+
+.transactions * {
+  padding: auto;
+  margin-top: 5px;
+  border-radius: 9px;
+  width: 250px;
+}
+
+.loggedBtn {
+  background-color: #1d3557f2 !important;
+  border: 2px solid !important;
+  /* padding: 4px 20px 4px 20px !important; */
+  border-radius: 7px !important;
+  margin-right: 1px;
+}
+
+.loggedBtn:hover {
+  background-color: #457b9d !important;
+  border-color: #457b9d !important;
+}

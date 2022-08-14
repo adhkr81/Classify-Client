@@ -1,0 +1,38 @@
+.bgBlue {
+    background-color: #1d3557f2 !important;
+  }
+  
+  .navItems {
+    list-style-type: none;
+    width: 95%;
+  }
+  
+  .logoFont {
+    font-family: "Yesteryear", cursive;
+    font-size: 40px;
+    color: #fcfaf9;
+    margin: 0px 0px 0px 15px;
+  }
+
+  .textWhite {
+    color: #fcfaf9 !important;
+    font-size: 22px;
+  }
+
+  .button {
+  background-color: #1d3557f2 !important;
+  border: 2px solid #f06449 !important;
+  padding: 5px 20px 5px 20px !important;
+  border-radius: 18px !important;
+}
+
+.button:hover {
+  background-color: #ec452f !important;
+  border-color: #ec452f !important;
+}
+
+.buttonClear {
+  background-color: transparent;
+  border: none;
+  color: #fcfaf9 !important;
+}

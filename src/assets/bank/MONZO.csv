@@ -1,0 +1,34 @@
+Transaction ID,Date,Time,Type,Name,Emoji,Category,Amount,Currency,Local amount,Local currency,Notes and #tags,Address,Receipt,Description,Category split,Money Out,Money In
+tx_0000AL2PKfdBTTPMCpY5Q1,01/07/2022,05:30:10,Account interest,,,Income,1.63,GBP,1.63,GBP,,,,Interest for June 2022,,,1.63
+tx_0000AL2mf3FPfyhp7PUch1,01/07/2022,09:51:34,Card payment,Tesco,🍏 ,Car,-60.03,GBP,-60.03,GBP,,NAPIER ROAD,,TESCO PAY AT PUMP 3935 READING       GBR,,-60.03,
+tx_0000AL4mRrW2N8SWsaAU1R,02/07/2022,08:58:37,Card payment,Tesco,🍏 ,Car,-30.72,GBP,-30.72,GBP,,NAPIER ROAD,,TESCO PAY AT PUMP 3935 READING       GBR,,-30.72,
+tx_0000AL4w0b2cVytEz0Oycz,02/07/2022,10:45:44,Card payment,Lacock Village Shop,,Groceries,-2.80,GBP,-2.80,GBP,,21 High Street,,LACOCK VILLAGE SHOP    CHIPPENHAM    GBR,,-2.80,
+tx_0000AL5E0kYYw58YRAdVGU,02/07/2022,14:07:27,Monzo-to-Monzo,Manuella Santos,🍔,Eating out,-6.73,GBP,-6.73,GBP,,,,Bill split for McDonald’s,,-6.73,
+tx_0000AL5EXrZbrtMEku0xBh,02/07/2022,14:13:26,Card payment,Lucy?s Tearoom,,Eating out,-25.70,GBP,-25.70,GBP,,Market Square,,LUCY?S TEAROOM         CHELTENHAM GL GBR,,-25.70,
+tx_0000AL5MmK1BhtoBFsRyyX,02/07/2022,15:45:41,Card payment,Paybyphone Ltd,🚗,Car,-3.50,GBP,-3.50,GBP,,,,PAYBYPHONE LTD         HATFIELD      GBR,,-3.50,
+tx_0000AL5dHBeETZI49Ftsrx,02/07/2022,18:50:33,Card payment,Sainsbury’s,🍏,Groceries,-64.59,GBP,-64.59,GBP,,BATH ROAD,,SAINSBURYS-CALCOT      READING       GBR,,-64.59,
+tx_0000AL5vspr5kNZ8cLcwHR,02/07/2022,22:19:02,Monzo-to-Monzo,Manuella Santos,🍏 ,Car,60.03,GBP,60.03,GBP,,,,Bill split for Tesco,,,60.03
+tx_0000AL5vtQc94uMh8zc6Qz,02/07/2022,22:19:09,Monzo-to-Monzo,Manuella Santos,,Eating out,17.13,GBP,17.13,GBP,,,,Bill split for Lucy?s Tearoom,,,17.13
+tx_0000AL5vuEMG8F5xY2mgmQ,02/07/2022,22:19:18,Monzo-to-Monzo,Manuella Santos,🚗,Car,3.50,GBP,3.50,GBP,,,,Bill split for Paybyphone Ltd,,,3.50
+tx_0000AL5vvBw6ccAZG3gELJ,02/07/2022,22:19:28,Monzo-to-Monzo,Manuella Santos,🍏,Groceries,32.29,GBP,32.29,GBP,,,,Bill split for Sainsbury’s,,,32.29
+tx_0000AL6hCHOYH75JNV3FEf,03/07/2022,07:09:11,Card payment,Tesco,🍏 ,Car,-46.70,GBP,-46.70,GBP,,NAPIER ROAD,,TESCO PAY AT PUMP 3935 READING       GBR,,-46.70,
+tx_0000AL6hRQiBuxGo42QXXl,03/07/2022,07:11:56,Card payment,Air-SERV,⛽️,Car,-0.50,GBP,-0.50,GBP,,"Tesco Reading Extra, Napier Road, Reading",,NYA*Air-Serv           Aberystwyth   GBR,,-0.50,
+tx_0000AL7EP8z09vs0SaeZaz,03/07/2022,13:21:17,Card payment,Wildwood Salisbury,,Eating out,-14.80,GBP,-14.80,GBP,,18 QUEEN STREET,,WILDWOOD SALISBURY     SALISBURY     GBR,,-14.80,
+tx_0000AL7LKcDWjrpg7Hi4bh,03/07/2022,14:38:54,Card payment,Wafflemeister Salisbur,,Eating out,-2.75,GBP,-2.75,GBP,,25 HIGH STREET,,WAFFLEMEISTER SALISBUR SALISBURY     GBR,,-2.75,
+tx_0000AL7Nr33cgNWOyom57R,03/07/2022,15:07:10,Card payment,Old George Mall,🚗,Car,-2.00,GBP,-2.00,GBP,,23B High Street,,OLD GEORGE MALL        SALISBURY     GBR,,-2.00,
+tx_0000AL8XPgRxp0jPIgbc5x,04/07/2022,04:28:59,monzo_paid,,,Expenses,-5.00,GBP,-5.00,GBP,,,,Monzo Plus,,-5.00,
+tx_0000AL8xj5FURTCEIFMVfN,04/07/2022,09:23:49,Card payment,HMV,💽🎶,Gifts,-15.98,GBP,-15.98,GBP,,The Oracle,,HMV RETAIL LTD         READING       GBR,,-15.98,
+tx_0000ALDkp9cImtI0bWKfNB,06/07/2022,16:52:48,Card payment,M&S,🛍 ,Groceries,-3.75,GBP,-3.75,GBP,,B376,,MARKS&SPENCER PLC      READING       GBR,,-3.75,
+tx_0000ALExzrmUvvlNpk1bmL,07/07/2022,06:55:07,Faster payment,C Garcia,,Car,-79.81,GBP,-79.81,GBP,Carro,,,Carro,,-79.81,
+tx_0000ALFgBMcyz0PD2eZUyP,07/07/2022,15:10:13,Card payment,PayByPhone,💸,Car,-1.60,GBP,-1.60,GBP,,,,PAYBYPHONE             CHORLEY       GBR,,-1.60,
+tx_0000ALFtQf7lnHtCzGMpbF,07/07/2022,17:38:39,Card payment,Pret,☕,Eating out,-4.25,GBP,-4.25,GBP,,Camborne Close,,PRET A MANGER          LONDON        GBR,,-4.25,
+tx_0000ALG152vfPIuexywBof,07/07/2022,19:04:23,Card payment,Heathrow Airport,✈️,Car,-17.80,GBP,-17.80,GBP,,HEATHROW TERMINAL 3,,APCOA-HAL-SS T3        MIDDLESEX     GBR,,-17.80,
+tx_0000ALG6VmDw7muw0qMYYj,07/07/2022,20:05:15,Monzo-to-Monzo,Adriana Passador,,Car,15.00,GBP,15.00,GBP,,,,,,,15.00
+tx_0000ALJ5GJ3clVPppgZCgz,09/07/2022,06:35:23,Card payment,Tesco,🍏 ,Car,-42.00,GBP,-42.00,GBP,,NAPIER ROAD,,TESCO PAY AT PUMP 3935 READING       GBR,,-42.00,
+tx_0000ALJKjnBzImJLRods7m,09/07/2022,09:28:47,Card payment,Google,💻,Entertainment,0.00,GBP,0.00,GBP,Active card check,,,GOOGLE *TEMPORARY HOLD g.co/helppay# GBR,,0.00,
+tx_0000ALJKm22v2zSvkv0GJN,09/07/2022,09:29:11,Card payment,JustPark,🚗,Car,-10.20,GBP,-10.20,GBP,,,,JUSTPARK               LONDON        GBR,,-10.20,
+tx_0000ALJiwYfH1ZehYX9HIP,09/07/2022,14:00:00,Card payment,Weymouth And Portland,🚗,Car,-1.50,GBP,-1.50,GBP,,Park Street,,WEYMOUTH AND PORTLAND  DORCEHSTER    GBR,,-1.50,
+tx_0000ALJkCCWBEUkyxLjJbt,09/07/2022,14:14:02,Card payment,Google,💻,Entertainment,0.00,GBP,0.00,GBP,Active card check,,,GOOGLE *TEMPORARY HOLD g.co/helppay# GBR,,0.00,
+tx_0000ALJkEmc40IX3TviGzi,09/07/2022,14:14:30,Card payment,Google,💻,Entertainment,0.00,GBP,0.00,GBP,Active card check,,,GOOGLE *TEMPORARY HOLD g.co/helppay# GBR,,0.00,
+tx_0000ALJkLNHIb3wWvy8xud,09/07/2022,14:15:42,Card payment,Wetherspoon,🍺,Eating out,-44.50,GBP,-44.50,GBP,,,,J D WETHERSPOON PLC    Watford       GBR,,-44.50,
+tx_0000ALJqTBNtIgz2BXKxvt,09/07/2022,15:24:20,Card payment,Tom & Erins Cafe & Ice,,Groceries,-2.90,GBP,-2.90,GBP,,82 The Esplanade,,Tom & Erins Cafe & Ice Weymouth      GBR,,-2.90,

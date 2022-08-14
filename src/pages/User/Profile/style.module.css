@@ -1,0 +1,150 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Yesteryear&display=swap");
+
+.logoFont {
+  font-family: "Yesteryear", cursive;
+  font-size: 100%;
+  color: #fcfaf9;
+  margin: 15px;
+}
+
+.darkblue {
+  background-color: #1d3557;
+}
+
+.mediumblue {
+  background-color: #457b9d;
+}
+
+.lightblue {
+  background-color: #a8dadc;
+}
+
+.lightgray {
+  background-color: #f1faee;
+}
+
+.red {
+  background-color: #e66139;
+}
+
+body {
+  background: #fcfaf9 !important;
+}
+
+.button {
+  background-color: #1d3557f2 !important;
+  border: 2px solid #f06449 !important;
+  padding: 5px 20px 5px 20px !important;
+  border-radius: 18px !important;
+}
+
+.button:hover {
+  background-color: #ec452f !important;
+  border-color: #ec452f !important;
+}
+
+.a {
+  text-decoration: none;
+  color: black;
+  /* height: 25px; */
+  /* width: 120px; */
+}
+
+.a:hover {
+  color: #457b9d;
+}
+
+.divHome {
+  min-height: 100%;
+  min-width: 100%;
+  background-size: cover;
+  position: fixed
+}
+
+.textWhite {
+  color: #fcfaf9 !important;  
+}
+
+.textBlue {
+  color: #1d3557f2 !important;
+}
+
+.paragraph {
+  font-size: 1.4em;
+  margin-top: 3%;
+  margin-left: 6%;
+  margin-right: 6%;
+  text-align: justify;
+}
+
+.paragraph2 {
+  font-size: 2em;
+  margin-top: 6%;
+  margin-left: 6%;
+  text-align: justify;
+}
+
+.imgSize {
+  width: 250px;
+  height: 250px;
+}
+
+.icon {
+  width: 30px;
+  height: 30px
+}
+
+.but {
+  background-color: #1d3557f2 !important;
+  border-color: transparent;
+}
+
+.inputbar {
+  width: 450px !important;
+  margin-right:45px
+}
+
+.loggedBtn {
+  background-color: #1d3557f2 !important;
+  border: 2px solid !important;
+  padding: 4px 20px 4px 20px !important;
+  border-radius: 7px !important;
+  margin-right: 1px;
+}
+
+.loggedBtn:hover {
+  background-color: #457b9d !important;
+  border-color: #457b9d !important;
+}
+
+.loggedSave {
+  background-color: #1d3557f2 !important;
+  border: 2px solid #f06449 !important;
+  padding: 4px 20px 4px 20px !important;
+  border-radius: 7px !important;
+  margin-right: 1px;
+}
+
+.loggedSave:hover {
+  background-color: #f06449 !important;
+  border: 2px solid #f06449 !important;
+}
+
+.loggedDelete {
+  background-color: #f06449 !important;
+  border: 2px solid #f06449 !important;
+  padding: 2px 10px 2px 10px !important;
+  border-radius: 7px !important;
+  margin-right: 1px;
+}
+
+.loggedDelete:hover {
+  background-color: #de0400 !important;
+  border: 2px solid #de0400 !important;
+}
+
+.shadow {
+  box-shadow: 4px 4px 28px rgba(29, 53, 87, 0.3) !important
+}
+
+
